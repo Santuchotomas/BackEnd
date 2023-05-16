@@ -1,0 +1,12 @@
+com\aversifunciona\backend2501\repository\IPersonaRepository.class
+com\aversifunciona\backend2501\service\ImpPersonaService.class
+com\aversifunciona\backend2501\Backend2501Application.class
+com\aversifunciona\backend2501\controller\Mensaje.class
+com\aversifunciona\backend2501\dto\DtoExperiencia.class
+com\aversifunciona\backend2501\entinty\Persona.class
+com\aversifunciona\backend2501\controller\PersonaController.class
+com\aversifunciona\backend2501\interfac\IPersonaService.class
+com\aversifunciona\backend2501\repository\RExperiencia.class
+com\aversifunciona\backend2501\service\SExperiencia.class
+com\aversifunciona\backend2501\controller\CExperiencia.class
+com\aversifunciona\backend2501\entinty\Experiencia.class
